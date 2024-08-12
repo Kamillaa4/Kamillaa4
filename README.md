@@ -2,8 +2,10 @@
 
 Meu nome é Kamilla Alves
 
--Estou estudando na Alura
+-Estou estudando na [Alura] (https://www.alura.com.br)
+
 -Estou me desenvolvendo na linguaguem JavaScript
+
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você entrar em contato comigo 🎧
